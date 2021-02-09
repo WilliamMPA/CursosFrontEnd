@@ -1,3 +1,16 @@
-h1{
+.PorClase{
     color:red
+}
+
+#PorID{
+    color:purple
+}
+
+[PorAtributo="Hola"]{
+    color:rosybrown
+}
+
+
+.FlechitaPorEncima:hover{
+    color: blue
 }
